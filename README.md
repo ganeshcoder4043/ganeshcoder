@@ -1,12 +1,12 @@
 <img  height="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
-Hi 👋! My name is Ganesh Kumar<br><br>🌱 I’m currently learning Android<br>🤝 I’m looking for help with FrontEnd<br>👯 I’m looking to collaborate on Front-End projects<br>📫 How to reach me i.harshsingh64@gmail.com <img align="right" height="150" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
+Hi 👋! My name is Ganesh Kumar<br><br>🌱 I’m currently learning Full Stack Java<br>🤝 I’m looking for help with FrontEnd<br>👯 I’m looking to collaborate on Front-End projects<br>📫 How to reach me ganesha4043@gmail.com <img align="right" height="150" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
 
 
 ## 🌐 Socials:
-<a href="https://instagram.com/haarshu___">
+<a href="https://instagram.com/ganeshakumar87">
   <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="50">
 </a>
-<a href="https://t.me/contact/1707819326:RbPm2Sdh77pe3oqM">
+<a href="https://t.me/contact/Ganesha4043">
   <img src="https://imgs.search.brave.com/gNB_y8VR2EU0XAUb-p_z-ZTCGjtojlZ6Ob-kBkKmfdk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/NU1xR0VuSFNRV0FB/QUFBai9qb2luLW9m/ZmljaWFsLWdydXAu/Z2lm.gif" alt="Telegram" height="50">
 </a>
 
@@ -17,12 +17,12 @@ Hi 👋! My name is Ganesh Kumar<br><br>🌱 I’m currently learning Android<br
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iharshsingh&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iharshsingh&theme=shades-of-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iharshsingh&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ganeshcoder4043&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ganeshcoder4043&theme=shades-of-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshcoder4043&theme=shades-of-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iharshsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ganeshcoder4043&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
@@ -30,13 +30,13 @@ Hi 👋! My name is Ganesh Kumar<br><br>🌱 I’m currently learning Android<br
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iharshsingh&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ganeshcoder4043&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 <img height="200" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 
 ### 😂 Random Dev Meme
 <img  height="500" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iharshsingh&icon=6&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ganeshcoder4043&icon=6&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
