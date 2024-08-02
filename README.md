@@ -1,5 +1,5 @@
 <img  height="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
-Hi 👋! My name is Ganesh Kumar<br><br>🌱 I’m currently learning Full Stack Java<br>🤝 I’m looking for help with FrontEnd<br>👯 I’m looking to collaborate on Front-End projects<br>📫 How to reach me ganesha4043@gmail.com <img align="right" height="150" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
+Hi 👋! My name is Ganesh Kumar<br><br>🌱 I’m currently learning Full Stack Java<br>🤝 I’m looking for help with FrontEnd & BackEnd<br>👯 I’m looking to collaborate on Front-End & Back-End projects<br>📫 How to reach me ganesha4043@gmail.com <img align="right" height="150" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
 
 
 ## 🌐 Socials:
